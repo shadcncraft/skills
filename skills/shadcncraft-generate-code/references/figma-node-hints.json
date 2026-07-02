@@ -1,0 +1,421 @@
+{
+  "_comment": "SECONDARY hint only. meta.figmaNodeId -> item name(s). The node IDs a user selects in the kit/preview file often do NOT equal these (specimen frames sit ~1 node off the component; blocks live elsewhere). Use only to corroborate a name match, never as the primary key. Match by name/data-slot (registry-index.json) first.",
+  "count_nodes": 96,
+  "nodes": {
+    "89208-12904": [
+      "404-1"
+    ],
+    "89208-13294": [
+      "404-2"
+    ],
+    "89208-66777": [
+      "404-3"
+    ],
+    "89208-67214": [
+      "404-4"
+    ],
+    "89208-68342": [
+      "404-5"
+    ],
+    "89208-69186": [
+      "404-6"
+    ],
+    "50338-23362": [
+      "activity-feed-1"
+    ],
+    "50337-18245": [
+      "activity-feed-item-1"
+    ],
+    "51518-5827": [
+      "announcement"
+    ],
+    "52380-8289": [
+      "avatar-stack"
+    ],
+    "53608-85018": [
+      "avatar-upload-1",
+      "avatar-upload-2"
+    ],
+    "52582-55382": [
+      "balance-1",
+      "balance-2",
+      "balance-3"
+    ],
+    "17859-94327": [
+      "banner-1",
+      "banner-10",
+      "banner-2",
+      "banner-3",
+      "banner-4",
+      "banner-5",
+      "banner-6",
+      "banner-7",
+      "banner-8",
+      "banner-9"
+    ],
+    "17859-91861": [
+      "benefits-1",
+      "benefits-10",
+      "benefits-11",
+      "benefits-12",
+      "benefits-13",
+      "benefits-2",
+      "benefits-3",
+      "benefits-4",
+      "benefits-5",
+      "benefits-6",
+      "benefits-7",
+      "benefits-8",
+      "benefits-9"
+    ],
+    "17897-106071": [
+      "blog-blockquote"
+    ],
+    "17897-106116": [
+      "blog-image"
+    ],
+    "17859-93013": [
+      "blog-listing-1",
+      "blog-listing-2",
+      "blog-listing-3",
+      "blog-listing-4"
+    ],
+    "50421-44458": [
+      "blog-listing-card-1",
+      "blog-listing-card-2"
+    ],
+    "50493-81251": [
+      "blog-listing-featured-card-1",
+      "blog-listing-featured-card-2",
+      "blog-listing-featured-card-3"
+    ],
+    "17859-93769": [
+      "careers-1",
+      "careers-2",
+      "careers-3",
+      "careers-4",
+      "careers-5"
+    ],
+    "83714-9975": [
+      "cart-item-1"
+    ],
+    "85494-12269": [
+      "checkout-1"
+    ],
+    "85527-20911": [
+      "checkout-2"
+    ],
+    "85543-23385": [
+      "checkout-3"
+    ],
+    "17897-106386": [
+      "chip"
+    ],
+    "17859-93196": [
+      "contact-1",
+      "contact-10",
+      "contact-11",
+      "contact-2",
+      "contact-3",
+      "contact-4",
+      "contact-5",
+      "contact-6",
+      "contact-7",
+      "contact-8",
+      "contact-9"
+    ],
+    "17859-92345": [
+      "cta-1",
+      "cta-2",
+      "cta-3",
+      "cta-4",
+      "cta-5",
+      "cta-6",
+      "cta-7",
+      "cta-8"
+    ],
+    "52584-56367": [
+      "expenses-1"
+    ],
+    "17859-93945": [
+      "faqs-1",
+      "faqs-2",
+      "faqs-3",
+      "faqs-4"
+    ],
+    "17897-106296": [
+      "feature-stack"
+    ],
+    "17897-100009": [
+      "featured-icon"
+    ],
+    "50226-16524": [
+      "file-upload-1",
+      "file-upload-2",
+      "file-upload-3"
+    ],
+    "50132-51670": [
+      "file-upload-area-1"
+    ],
+    "50231-18937": [
+      "file-upload-card-1"
+    ],
+    "17859-94192": [
+      "footer-1",
+      "footer-2",
+      "footer-3",
+      "footer-4"
+    ],
+    "46226-41255": [
+      "header-1",
+      "header-2",
+      "header-3",
+      "header-4",
+      "header-5",
+      "header-6"
+    ],
+    "17936-107791": [
+      "hero-1",
+      "hero-10",
+      "hero-2",
+      "hero-3",
+      "hero-4",
+      "hero-5",
+      "hero-6",
+      "hero-7",
+      "hero-8",
+      "hero-9"
+    ],
+    "51130-49444": [
+      "inline-cta-1",
+      "inline-cta-2",
+      "inline-cta-3"
+    ],
+    "51146-55591": [
+      "inline-hint"
+    ],
+    "17897-106431": [
+      "job-listing"
+    ],
+    "81614-10088": [
+      "marquee"
+    ],
+    "58310-7419": [
+      "message-card-1"
+    ],
+    "52052-13668": [
+      "messaging"
+    ],
+    "50471-15466": [
+      "metric-card-1",
+      "metric-card-2"
+    ],
+    "17897-105890": [
+      "metric"
+    ],
+    "17859-92526": [
+      "metrics-1",
+      "metrics-2",
+      "metrics-3",
+      "metrics-4",
+      "metrics-5",
+      "metrics-6",
+      "metrics-7"
+    ],
+    "17897-97306": [
+      "mobile-navigation-menu"
+    ],
+    "50120-16691": [
+      "modal-1",
+      "modal-2",
+      "modal-3"
+    ],
+    "50477-77785": [
+      "multistep-1",
+      "multistep-2",
+      "multistep-3"
+    ],
+    "17936-107882": [
+      "newsletter-signup-1",
+      "newsletter-signup-2",
+      "newsletter-signup-3",
+      "newsletter-signup-4",
+      "newsletter-signup-5"
+    ],
+    "18403-114401": [
+      "page-heading"
+    ],
+    "17897-100144": [
+      "placeholder-logo"
+    ],
+    "17859-92210": [
+      "pricing-1",
+      "pricing-2",
+      "pricing-3",
+      "pricing-4",
+      "pricing-5",
+      "pricing-6",
+      "pricing-7"
+    ],
+    "17897-105845": [
+      "pricing-card-1"
+    ],
+    "81858-11810": [
+      "product-card-1",
+      "product-card-2"
+    ],
+    "82475-7006": [
+      "product-category-1"
+    ],
+    "82490-11383": [
+      "product-category-2"
+    ],
+    "82490-12133": [
+      "product-category-3"
+    ],
+    "82498-12539": [
+      "product-category-4"
+    ],
+    "82502-12777": [
+      "product-category-5"
+    ],
+    "82475-6238": [
+      "product-category-card-1"
+    ],
+    "82604-12948": [
+      "product-details-1"
+    ],
+    "82619-17659": [
+      "product-details-2"
+    ],
+    "83231-9520": [
+      "product-details-3"
+    ],
+    "83231-11390": [
+      "product-details-4"
+    ],
+    "83251-16247": [
+      "product-details-5"
+    ],
+    "84783-9394": [
+      "product-details-6"
+    ],
+    "81858-19357": [
+      "product-list-1"
+    ],
+    "81858-28693": [
+      "product-list-2"
+    ],
+    "81914-30797": [
+      "product-list-3"
+    ],
+    "81914-33728": [
+      "product-list-4"
+    ],
+    "82021-37489": [
+      "product-list-5"
+    ],
+    "17897-105981": [
+      "profile-card"
+    ],
+    "50386-40994": [
+      "progress-1",
+      "progress-2",
+      "progress-3",
+      "progress-4"
+    ],
+    "50385-40557": [
+      "progress-item-1"
+    ],
+    "51958-5254": [
+      "rich-separator"
+    ],
+    "50291-7185": [
+      "section-footer-1",
+      "section-footer-2",
+      "section-footer-3",
+      "section-footer-4"
+    ],
+    "17897-105935": [
+      "section-heading"
+    ],
+    "83714-7505": [
+      "shopping-cart-1"
+    ],
+    "83751-8032": [
+      "shopping-cart-2"
+    ],
+    "83874-7700": [
+      "shopping-cart-3"
+    ],
+    "83889-9921": [
+      "shopping-cart-4"
+    ],
+    "17936-107974": [
+      "social-proof-1",
+      "social-proof-2",
+      "social-proof-3",
+      "social-proof-4",
+      "social-proof-5",
+      "social-proof-6"
+    ],
+    "52115-42478": [
+      "spending-balance-1"
+    ],
+    "17897-99964": [
+      "star-rating"
+    ],
+    "52563-52450": [
+      "stock-market-1"
+    ],
+    "17897-100234": [
+      "sub-feature"
+    ],
+    "17897-105936": [
+      "tagline"
+    ],
+    "51923-8484": [
+      "tags"
+    ],
+    "17859-93589": [
+      "team-1",
+      "team-2",
+      "team-3",
+      "team-4",
+      "team-5"
+    ],
+    "59594-23755": [
+      "team-card-1",
+      "team-card-2"
+    ],
+    "17936-108064": [
+      "testimonials-1",
+      "testimonials-10",
+      "testimonials-11",
+      "testimonials-2",
+      "testimonials-3",
+      "testimonials-4",
+      "testimonials-5",
+      "testimonials-6",
+      "testimonials-7",
+      "testimonials-8",
+      "testimonials-9"
+    ],
+    "53560-64388": [
+      "ticker"
+    ],
+    "14088-52274": [
+      "top-navigation-1",
+      "top-navigation-2",
+      "top-navigation-3",
+      "top-navigation-4",
+      "top-navigation-5"
+    ],
+    "53553-62880": [
+      "transactions-1"
+    ],
+    "17897-100099": [
+      "ui-showcase"
+    ]
+  }
+}
