@@ -1,0 +1,468 @@
+{
+  "manifestVersion": 1,
+  "kitVersion": "v3.4",
+  "generatedFrom": "shadcncraft Pro v3.4 (2026-08-11); provenance only, NEVER the run target",
+  "note": "Historical v1 index for kit v3.4, generated 2026-08-11. Provenance only, never the run target. Coverage is incomplete, especially marketing and apps. IDs and names are lookup hints; verify node type and identity in the user-provided target file. Missing entries do not prove absence. Historical publish fields do not establish target-file availability. Use the version-aware lookup procedure in SKILL.md. Do not relabel this as a current inventory without verified regeneration.",
+  "collections": {
+    "Tailwind": "6704:18829",
+    "Mode": "6704:19204",
+    "Style": "110243:12619"
+  },
+  "baseComponents": [
+    {
+      "name": "Accordion",
+      "pageId": "2811:14410"
+    },
+    {
+      "name": "Alert",
+      "pageId": "2813:9373"
+    },
+    {
+      "name": "Alert Dialog",
+      "pageId": "2814:11167"
+    },
+    {
+      "name": "Attachment",
+      "pageId": "172767:17330",
+      "setId": "157854:24712",
+      "dataSlot": "attachment",
+      "publish": "UNPUBLISHED",
+      "also": {
+        "AttachmentGroup": "157854:24713"
+      }
+    },
+    {
+      "name": "Avatar",
+      "pageId": "2814:11240"
+    },
+    {
+      "name": "Badge",
+      "pageId": "2814:11330"
+    },
+    {
+      "name": "Breadcrumb",
+      "pageId": "2814:11672"
+    },
+    {
+      "name": "Bubble",
+      "pageId": "172767:17328",
+      "setId": "157294:23575",
+      "dataSlot": "bubble",
+      "publish": "UNPUBLISHED",
+      "also": {
+        "BubbleGroup": "161195:24121",
+        "BubbleReactions": "157793:23686"
+      }
+    },
+    {
+      "name": "Button",
+      "pageId": "2814:11933",
+      "setId": "6716:46634"
+    },
+    {
+      "name": "Button Group",
+      "pageId": "28685:126219"
+    },
+    {
+      "name": "Calendar",
+      "pageId": "2819:19886"
+    },
+    {
+      "name": "Card",
+      "pageId": "2819:20398",
+      "setId": "122546:3012",
+      "also": {
+        "CardHeader": "2761:23510",
+        "CardFooter": "149:2866"
+      }
+    },
+    {
+      "name": "Carousel",
+      "pageId": "2819:21462"
+    },
+    {
+      "name": "Chart",
+      "pageId": "2819:21571"
+    },
+    {
+      "name": "Checkbox",
+      "pageId": "2819:21779",
+      "setId": "1:117",
+      "also": {
+        "Checkbox Toggle": "2744:7267",
+        "CheckboxGroup": "2744:7656"
+      }
+    },
+    {
+      "name": "Collapsible",
+      "pageId": "2819:22060"
+    },
+    {
+      "name": "Combobox",
+      "pageId": "2819:22160"
+    },
+    {
+      "name": "Command",
+      "pageId": "2819:22790"
+    },
+    {
+      "name": "Context Menu",
+      "pageId": "2819:22693"
+    },
+    {
+      "name": "Data Table",
+      "pageId": "2819:23090"
+    },
+    {
+      "name": "Date Picker",
+      "pageId": "2819:23348"
+    },
+    {
+      "name": "Dialog",
+      "pageId": "2819:24560",
+      "setId": "2759:16962"
+    },
+    {
+      "name": "Drawer",
+      "pageId": "2819:24663"
+    },
+    {
+      "name": "Dropdown Menu",
+      "pageId": "2819:24797"
+    },
+    {
+      "name": "Empty",
+      "pageId": "33462:36283"
+    },
+    {
+      "name": "Field",
+      "pageId": "33541:58880"
+    },
+    {
+      "name": "Form",
+      "pageId": "2819:26426"
+    },
+    {
+      "name": "Hover Card",
+      "pageId": "2819:27160"
+    },
+    {
+      "name": "Input",
+      "pageId": "2819:27270",
+      "setId": "2732:15509"
+    },
+    {
+      "name": "Input Group",
+      "pageId": "27510:119942"
+    },
+    {
+      "name": "Input OTP",
+      "pageId": "2819:27454"
+    },
+    {
+      "name": "Item",
+      "pageId": "32847:5869"
+    },
+    {
+      "name": "Kbd",
+      "pageId": "29794:42330",
+      "setId": "29794:42968"
+    },
+    {
+      "name": "Label",
+      "pageId": "2819:27710"
+    },
+    {
+      "name": "Marker",
+      "pageId": "171666:20058",
+      "setId": "157777:23705",
+      "dataSlot": "marker",
+      "publish": "UNPUBLISHED"
+    },
+    {
+      "name": "Menubar",
+      "pageId": "2819:27754"
+    },
+    {
+      "name": "Message",
+      "pageId": "172767:17329",
+      "setId": "157772:23555",
+      "dataSlot": "message",
+      "publish": "UNPUBLISHED",
+      "also": {
+        "MessageGroup": "161333:24124"
+      }
+    },
+    {
+      "name": "Message Scroller",
+      "pageId": "172767:17331",
+      "setId": "157777:23706",
+      "dataSlot": "message-scroller",
+      "publish": "UNPUBLISHED"
+    },
+    {
+      "name": "Navigation Menu",
+      "pageId": "2819:28229"
+    },
+    {
+      "name": "Pagination",
+      "pageId": "2819:28903"
+    },
+    {
+      "name": "Popover",
+      "pageId": "2819:29025"
+    },
+    {
+      "name": "Progress",
+      "pageId": "2819:29134",
+      "setId": "2768:27760"
+    },
+    {
+      "name": "Questionnaire",
+      "pageId": "197326:51011",
+      "setId": "197327:46995",
+      "dataSlot": "questionnaire",
+      "publish": "UNPUBLISHED",
+      "also": {
+        "QuestionnaireItem": "197327:46960",
+        "QuestionnaireChoice": "197325:222314",
+        "QuestionnaireProgress": "197325:222315",
+        "QuestionnaireActions": "197325:222317"
+      }
+    },
+    {
+      "name": "Radio Group",
+      "pageId": "2819:29275",
+      "also": {
+        "RadioGroupToggle": "2780:51080",
+        "RadioGroupItem": "2780:51001"
+      }
+    },
+    {
+      "name": "Resizable",
+      "pageId": "2819:29536"
+    },
+    {
+      "name": "Scroll-area",
+      "pageId": "2819:29663"
+    },
+    {
+      "name": "Select",
+      "pageId": "2819:29971"
+    },
+    {
+      "name": "Separator",
+      "pageId": "2819:30252"
+    },
+    {
+      "name": "Sheet",
+      "pageId": "2819:30307"
+    },
+    {
+      "name": "Sidebar",
+      "pageId": "2844:3"
+    },
+    {
+      "name": "Skeleton",
+      "pageId": "2819:30510"
+    },
+    {
+      "name": "Slider",
+      "pageId": "2819:30565"
+    },
+    {
+      "name": "Sonner",
+      "pageId": "2819:30654"
+    },
+    {
+      "name": "Spinner",
+      "pageId": "33609:22857"
+    },
+    {
+      "name": "Switch",
+      "pageId": "2819:30732"
+    },
+    {
+      "name": "Table",
+      "pageId": "2819:30903"
+    },
+    {
+      "name": "Tabs",
+      "pageId": "2819:31095"
+    },
+    {
+      "name": "Textarea",
+      "pageId": "2819:31164"
+    },
+    {
+      "name": "Toggle",
+      "pageId": "2819:31490"
+    },
+    {
+      "name": "Toggle Group",
+      "pageId": "2819:31630"
+    },
+    {
+      "name": "Tooltip",
+      "pageId": "2819:31792"
+    }
+  ],
+  "proApplicationComponents": [
+    {
+      "name": "Activity Feed Item",
+      "pageId": "50337:18245"
+    },
+    {
+      "name": "Announcement",
+      "pageId": "51518:5827"
+    },
+    {
+      "name": "Avatar Upload",
+      "pageId": "53608:85018"
+    },
+    {
+      "name": "Balance",
+      "pageId": "52582:55382"
+    },
+    {
+      "name": "Code Snippet",
+      "pageId": "51518:28836"
+    },
+    {
+      "name": "Expenses",
+      "pageId": "52584:56367"
+    },
+    {
+      "name": "Empty States",
+      "pageId": "88536:36150"
+    },
+    {
+      "name": "File Upload Card",
+      "pageId": "50231:18937"
+    },
+    {
+      "name": "File Upload Area",
+      "pageId": "50132:51670"
+    },
+    {
+      "name": "Inline Hint",
+      "pageId": "51146:55591"
+    },
+    {
+      "name": "Metric Card",
+      "pageId": "50471:15466"
+    },
+    {
+      "name": "Messaging",
+      "pageId": "52052:13668"
+    },
+    {
+      "name": "Message Card",
+      "pageId": "58310:7419",
+      "setId": "58310:7749",
+      "publish": "CHANGED",
+      "note": "older messaging-app family; NOT shadcn Message",
+      "also": {
+        "Message Recipient": "58310:7771"
+      }
+    },
+    {
+      "name": "Mobile Header Bar",
+      "pageId": "46226:82018"
+    },
+    {
+      "name": "Modal",
+      "pageId": "50120:43396"
+    },
+    {
+      "name": "Notifications Item",
+      "pageId": "50226:19581"
+    },
+    {
+      "name": "Progress Item",
+      "pageId": "50385:40557"
+    },
+    {
+      "name": "Rich Separator",
+      "pageId": "51958:5254"
+    },
+    {
+      "name": "Spending Balance",
+      "pageId": "52115:42478"
+    },
+    {
+      "name": "Stock Market",
+      "pageId": "52563:52450"
+    },
+    {
+      "name": "Tags",
+      "pageId": "51923:8484"
+    },
+    {
+      "name": "Ticker",
+      "pageId": "53560:64388"
+    },
+    {
+      "name": "Transactions",
+      "pageId": "53553:62880"
+    }
+  ],
+  "proApplicationBlocks": [
+    {
+      "name": "Activity Feeds",
+      "pageId": "50338:23362"
+    },
+    {
+      "name": "File Uploads",
+      "pageId": "50226:16524"
+    },
+    {
+      "name": "Headers",
+      "pageId": "46226:41255"
+    },
+    {
+      "name": "Inline CTAs",
+      "pageId": "51130:49444"
+    },
+    {
+      "name": "Modals",
+      "pageId": "50120:16691"
+    },
+    {
+      "name": "Multistep",
+      "pageId": "50477:77785"
+    },
+    {
+      "name": "Progress",
+      "pageId": "50386:40994"
+    },
+    {
+      "name": "Section Footers",
+      "pageId": "50291:7185"
+    },
+    {
+      "name": "Tables",
+      "pageId": "176511:20855"
+    }
+  ],
+  "proMarketing": {
+    "note": "Components pages 17897:*/50421:*/52380:* etc., Blocks pages 17859:*, Templates (legacy Pages) 18446:*/18403:*/18343:*. Enumerate the group headers ('Pro Marketing Components' 17897:97304, 'Pro Marketing Blocks' 17859:72299, 'Pro Marketing Templates' 17859:94501) when marketing pieces are needed."
+  },
+  "apps": [
+    {
+      "name": "ClearFlow",
+      "pageId": "49718:17496",
+      "note": "under the Sites section, renaming to Apps"
+    }
+  ],
+  "utility": {
+    "pageId": "1:22",
+    "components": {
+      "Title": "2706:22154",
+      "Footer": "7052:51648",
+      "Component Icon": "130468:1377",
+      "Component Example Header": "7958:110081",
+      "Component Preview": "137409:21805"
+    }
+  }
+}
