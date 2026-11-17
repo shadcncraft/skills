@@ -48,6 +48,23 @@ npx @shadcncraft/skills add all
 
 Restart your agent to pick up the new skills. More in the [installation guide](https://shadcncraft.com/docs/agent-skills/installation).
 
+## Plugins
+
+This repository is also a plugin marketplace for Claude Code and Codex.
+
+| Plugin | What it does |
+| --- | --- |
+| [`shadcncraft-json-render`](plugins/shadcncraft-json-render) | Compose and check [JSON Render](https://github.com/vercel-labs/json-render) pages from shadcncraft blocks. Uses the installed `@shadcncraft/json-render` (Free) or `@shadcncraft/json-render-pro` (Pro) package's own skill and CLI, so it stays current as the package updates. |
+
+Claude Code:
+
+```bash
+claude plugin marketplace add shadcncraft/skills
+claude plugin install shadcncraft-json-render@shadcncraft
+```
+
+Codex: `codex plugin marketplace add shadcncraft/skills`, then install **shadcncraft JSON Render** from `/plugins`.
+
 ## Access
 
 The skills are free to install. What each one can do depends on what it touches:

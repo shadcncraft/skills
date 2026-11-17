@@ -1,0 +1,6 @@
+interface:
+  display_name: "shadcncraft JSON Render"
+  short_description: "Build JSON Render pages from shadcncraft blocks"
+
+policy:
+  allow_implicit_invocation: true

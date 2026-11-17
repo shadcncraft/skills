@@ -1,0 +1,26 @@
+{
+  "name": "shadcncraft",
+  "interface": {
+    "displayName": "shadcncraft"
+  },
+  "plugins": [
+    {
+      "name": "shadcncraft-json-render",
+      "source": {
+        "source": "local",
+        "path": "./plugins/shadcncraft-json-render"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools",
+      "version": "0.1.0",
+      "description": "Compose and check JSON Render pages from shadcncraft Free or Pro blocks, using the installed package's own skill and CLI.",
+      "interface": {
+        "displayName": "shadcncraft JSON Render",
+        "shortDescription": "Build JSON Render pages from shadcncraft blocks"
+      }
+    }
+  ]
+}
