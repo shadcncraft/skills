@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "shadcncraft",
+  "description": "shadcncraft plugins for coding agents.",
+  "owner": { "name": "shadcncraft", "url": "https://shadcncraft.com" },
+  "plugins": [
+    {
+      "name": "shadcncraft-json-render",
+      "source": "./plugins/shadcncraft-json-render",
+      "description": "Compose and check JSON Render pages from shadcncraft Free or Pro blocks, using the installed package's own skill and CLI.",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": ["shadcn", "json-render", "generative-ui"]
+    }
+  ]
+}
