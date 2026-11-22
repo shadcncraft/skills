@@ -15,7 +15,7 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Developer Tools",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Compose and check JSON Render pages from shadcncraft Free or Pro blocks, using the installed package's own skill and CLI.",
       "interface": {
         "displayName": "shadcncraft JSON Render",
