@@ -1,7 +1,7 @@
 {
   "name": "shadcncraft-json-render",
   "displayName": "shadcncraft JSON Render",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compose and check JSON Render pages from shadcncraft blocks. Uses the installed @shadcncraft/json-render (Free) or @shadcncraft/json-render-pro (Pro) package and its own skill and CLI.",
   "author": { "name": "shadcncraft", "url": "https://shadcncraft.com" },
   "homepage": "https://shadcncraft.com",

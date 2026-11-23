@@ -8,7 +8,7 @@
       "name": "shadcncraft-json-render",
       "source": "./plugins/shadcncraft-json-render",
       "description": "Compose and check JSON Render pages from shadcncraft Free or Pro blocks, using the installed package's own skill and CLI.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "development",
       "tags": ["shadcn", "json-render", "generative-ui"]
     }

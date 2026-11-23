@@ -1,6 +1,6 @@
 ---
 name: shadcncraft-json-render
-description: Compose, edit or check JSON Render pages and app screens from shadcncraft blocks, using the installed @shadcncraft/json-render (Free) or @shadcncraft/json-render-pro (Pro) package. Use when building a landing page, marketing page, dashboard or app screen as JSON from shadcncraft blocks, choosing a block, writing or changing its copy, binding its buttons or forms to actions, reordering sections, or running the shadcncraft-json-render catalog or check CLI.
+description: Compose, edit or check JSON Render pages and app screens from shadcncraft blocks, using the installed @shadcncraft/json-render (Free) or @shadcncraft/json-render-pro (Pro) package. Use when building a landing page, marketing page, dashboard or app screen as JSON from shadcncraft blocks, choosing a block, writing or changing its copy, binding its buttons or forms to actions, reordering sections, or running its catalog or check CLI.
 ---
 
 # shadcncraft JSON Render
@@ -31,9 +31,9 @@ licence key.
 ## 2. Follow the package's skill
 
 1. Read the file at `installed.skill` in full before writing any JSON.
-2. Wherever it says `npx shadcncraft-json-render`, you may use that, or
-   `installed.cli.run` with the same arguments. Use `installed.cli.run` when
-   `both` is true, so the Pro CLI answers.
+2. Run the CLI the package's `SKILL.md` names (`npx shadcncraft-json-render`
+   for Free, `npx shadcncraft-json-render-pro` for Pro), or `installed.cli.run`
+   with the same arguments, which always runs the right one.
 3. Build only from the blocks that CLI's `catalog` lists. Never rely on a
    block, prop or limit from memory or from this file.
 4. Finish with the package skill's Verify steps (`check`, then render).
